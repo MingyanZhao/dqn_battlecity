@@ -1,0 +1,1573 @@
+INFO:root:enemies_left [0]
+INFO:root:frame =0 recording current_observation no.0
+DEBUG:root: save sample needs time = 0.000234842300415
+INFO:root:frame =1 recording current_observation no.1
+DEBUG:root: save sample needs time = 0.000504970550537
+INFO:root:frame =2 recording current_observation no.2
+DEBUG:root: save sample needs time = 0.000446081161499
+INFO:root:frame =3 recording current_observation no.3
+DEBUG:root: save sample needs time = 0.000425100326538
+INFO:root:frame =4current_observation done, NOT record action 3, reward = 0
+DEBUG:root: save sample needs time = 0.000715017318726
+INFO:root:frame =5 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000433921813965
+INFO:root:frame =6 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000355958938599
+INFO:root:frame = 7 State into memory, numbers recorded 1 action = 1, reward = 0
+DEBUG:root: save sample needs time = 0.000534057617188
+INFO:root:frame =8current_observation done, NOT record action 4, reward = 0
+DEBUG:root: save sample needs time = 0.000434875488281
+INFO:root:frame =9 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000228881835938
+INFO:root:frame =10 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000442028045654
+DEBUG:root: save sample needs time = 0.000232934951782
+INFO:root:frame =12 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000466823577881
+INFO:root:frame =13 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00047492980957
+INFO:root:frame =14 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000434875488281
+DEBUG:root: save sample needs time = 0.000200033187866
+INFO:root:frame =16 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000391006469727
+INFO:root:frame =17 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000505924224854
+INFO:root:frame =18 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000444173812866
+DEBUG:root: save sample needs time = 0.000159978866577
+INFO:root:random_action_porb = 0.999968333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000363
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =20 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000185012817383
+INFO:root:frame =21 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000453948974609
+INFO:root:frame =22 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000295877456665
+DEBUG:root: save sample needs time = 0.000236034393311
+INFO:root:random_action_porb = 0.999936666667
+DEBUG:root: dqn, choose action rondomly, need time 0.00037
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =24 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000357866287231
+INFO:root:frame =25 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000412940979004
+INFO:root:frame =26 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000431060791016
+DEBUG:root: save sample needs time = 0.000197887420654
+INFO:root:random_action_porb = 0.999905
+DEBUG:root: dqn, choose action rondomly, need time 0.000368
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =28 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000441074371338
+INFO:root:frame =29 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000327110290527
+INFO:root:frame =30 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000439882278442
+DEBUG:root: save sample needs time = 0.000135898590088
+INFO:root:random_action_porb = 0.999873333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000235
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =32 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000231027603149
+INFO:root:frame =33 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000505924224854
+INFO:root:frame =34 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000231981277466
+DEBUG:root: save sample needs time = 0.000151872634888
+INFO:root:random_action_porb = 0.999841666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000375
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =36 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000458002090454
+INFO:root:frame =37 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000452041625977
+INFO:root:frame =38 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000352144241333
+DEBUG:root: save sample needs time = 0.000261068344116
+INFO:root:random_action_porb = 0.99981
+DEBUG:root: dqn, choose action rondomly, need time 0.000211
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =40 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000250101089478
+INFO:root:frame =41 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000503063201904
+INFO:root:frame =42 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000463008880615
+DEBUG:root: save sample needs time = 0.000200986862183
+INFO:root:random_action_porb = 0.999778333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000632
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =44 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000297069549561
+INFO:root:frame =45 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000363826751709
+INFO:root:frame =46 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000415086746216
+DEBUG:root: save sample needs time = 0.000159978866577
+INFO:root:random_action_porb = 0.999746666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000394
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =48 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000371932983398
+INFO:root:frame =49 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000499963760376
+INFO:root:frame =50 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.00043797492981
+DEBUG:root: save sample needs time = 0.000123023986816
+INFO:root:random_action_porb = 0.999715
+DEBUG:root: dqn, choose action rondomly, need time 0.000338
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =52 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000189065933228
+INFO:root:frame =53 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000444173812866
+INFO:root:frame =54 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000346899032593
+DEBUG:root: save sample needs time = 0.000277042388916
+INFO:root:random_action_porb = 0.999683333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000393
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =56 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000324964523315
+INFO:root:frame =57 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000576972961426
+INFO:root:frame =58 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000335931777954
+DEBUG:root: save sample needs time = 0.000211000442505
+INFO:root:random_action_porb = 0.999651666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000294
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =60 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000303030014038
+INFO:root:frame =61 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000457048416138
+INFO:root:frame =62 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000433206558228
+DEBUG:root: save sample needs time = 0.000160932540894
+INFO:root:random_action_porb = 0.99962
+DEBUG:root: dqn, choose action rondomly, need time 0.000323
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =64 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000358819961548
+INFO:root:frame =65 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000359773635864
+INFO:root:frame =66 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000323057174683
+INFO:root:frame = 67 State into memory, numbers recorded 2 action = 3, reward = 0
+DEBUG:root: save sample needs time = 0.000308990478516
+INFO:root:random_action_porb = 0.999588333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000158
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =68current_observation done, NOT record action 3, reward = 0
+DEBUG:root: save sample needs time = 0.000147819519043
+INFO:root:frame =69 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000237941741943
+INFO:root:frame =70 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000438928604126
+DEBUG:root: save sample needs time = 0.000208139419556
+INFO:root:random_action_porb = 0.999556666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000168
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =72 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000372886657715
+INFO:root:q_result %f[[ 3.42662501]
+ [ 8.33909035]
+ [ 3.42662501]
+ [ 8.33909035]
+ [ 3.42662501]
+ [ 3.42662501]
+ [ 3.42662501]
+ [ 3.42662501]
+ [ 3.42662501]
+ [ 8.33909035]
+ [ 3.42662501]
+ [ 3.42662501]
+ [ 8.33909035]
+ [ 8.33909035]
+ [ 8.33909035]
+ [ 8.33909035]]
+INFO:root:q_max %f[[ 8.29260063]
+ [ 8.34768486]
+ [ 8.29260063]
+ [ 8.34768486]
+ [ 8.29260063]
+ [ 8.29260063]
+ [ 8.29260063]
+ [ 8.29260063]
+ [ 8.29260063]
+ [ 8.34768486]
+ [ 8.29260063]
+ [ 8.29260063]
+ [ 8.34768486]
+ [ 8.34768486]
+ [ 8.34768486]
+ [ 8.34768486]]
+INFO:root:y %f[[ 7.8779707 ]
+ [ 7.93030071]
+ [ 7.8779707 ]
+ [ 7.93030071]
+ [ 7.8779707 ]
+ [ 7.8779707 ]
+ [ 7.8779707 ]
+ [ 7.8779707 ]
+ [ 7.8779707 ]
+ [ 7.93030071]
+ [ 7.8779707 ]
+ [ 7.8779707 ]
+ [ 7.93030071]
+ [ 7.93030071]
+ [ 7.93030071]
+ [ 7.93030071]]
+INFO:root:training error  = [[ 19.81447601]
+ [  0.16710897]
+ [ 19.81447601]
+ [  0.16710897]
+ [ 19.81447601]
+ [ 19.81447601]
+ [ 19.81447601]
+ [ 19.81447601]
+ [ 19.81447601]
+ [  0.16710897]
+ [ 19.81447601]
+ [ 19.81447601]
+ [  0.16710897]
+ [  0.16710897]
+ [  0.16710897]
+ [  0.16710897]]
+DEBUG:root:training time = %d0.250386
+INFO:root:frame =73 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000313997268677
+INFO:root:frame =74 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000224113464355
+DEBUG:root: save sample needs time = 0.000141859054565
+INFO:root:random_action_porb = 0.999525
+DEBUG:root: dqn, choose action rondomly, need time 0.000201
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =76 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000225067138672
+INFO:root:frame =77 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000473976135254
+INFO:root:frame =78 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000448226928711
+DEBUG:root: save sample needs time = 0.000221014022827
+INFO:root:random_action_porb = 0.999493333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000307
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =80 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000319004058838
+INFO:root:q_result %f[[ 7.56570244]
+ [ 7.56570244]
+ [ 7.56570244]
+ [ 3.44252014]
+ [ 7.56570244]
+ [ 3.44252014]
+ [ 3.44252014]
+ [ 3.44252014]
+ [ 3.44252014]
+ [ 7.56570244]
+ [ 7.56570244]
+ [ 7.56570244]
+ [ 3.44252014]
+ [ 7.56570244]
+ [ 3.44252014]
+ [ 3.44252014]]
+INFO:root:q_max %f[[ 8.11897659]
+ [ 8.11897659]
+ [ 8.11897659]
+ [ 8.02283669]
+ [ 8.11897659]
+ [ 8.02283669]
+ [ 8.02283669]
+ [ 8.02283669]
+ [ 8.02283669]
+ [ 8.11897659]
+ [ 8.11897659]
+ [ 8.11897659]
+ [ 8.02283669]
+ [ 8.11897659]
+ [ 8.02283669]
+ [ 8.02283669]]
+INFO:root:y %f[[ 7.71302748]
+ [ 7.71302748]
+ [ 7.71302748]
+ [ 7.62169456]
+ [ 7.71302748]
+ [ 7.62169456]
+ [ 7.62169456]
+ [ 7.62169456]
+ [ 7.62169456]
+ [ 7.71302748]
+ [ 7.71302748]
+ [ 7.71302748]
+ [ 7.62169456]
+ [ 7.71302748]
+ [ 7.62169456]
+ [ 7.62169456]]
+INFO:root:training error  = [[  0.02170467]
+ [  0.02170467]
+ [  0.02170467]
+ [ 17.46549797]
+ [  0.02170467]
+ [ 17.46549797]
+ [ 17.46549797]
+ [ 17.46549797]
+ [ 17.46549797]
+ [  0.02170467]
+ [  0.02170467]
+ [  0.02170467]
+ [ 17.46549797]
+ [  0.02170467]
+ [ 17.46549797]
+ [ 17.46549797]]
+DEBUG:root:training time = %d0.225694
+INFO:root:frame =81 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00025486946106
+INFO:root:frame =82 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.00042200088501
+INFO:root:frame = 83 State into memory, numbers recorded 3 action = 4, reward = 0
+DEBUG:root: save sample needs time = 0.00032901763916
+INFO:root:random_action_porb = 0.999461666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000288
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =84current_observation done, NOT record action 1, reward = 0
+DEBUG:root: save sample needs time = 0.000341892242432
+INFO:root:frame =85 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000226020812988
+INFO:root:frame =86 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000237941741943
+DEBUG:root: save sample needs time = 0.000220060348511
+INFO:root:random_action_porb = 0.99943
+DEBUG:root: dqn, choose action rondomly, need time 0.000367
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =88 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000310897827148
+INFO:root:q_result %f[[ 7.60939121]
+ [ 7.60939121]
+ [ 7.60939121]
+ [ 7.60939121]
+ [ 3.43411899]
+ [ 7.60939121]
+ [ 7.60939121]
+ [ 3.43411899]
+ [ 7.60939121]
+ [ 7.60939121]
+ [ 3.43411899]
+ [ 1.27198124]
+ [ 7.60939121]
+ [ 3.43411899]
+ [ 7.60939121]
+ [ 3.43411899]]
+INFO:root:q_max %f[[ 7.61664867]
+ [ 7.61664867]
+ [ 7.61664867]
+ [ 7.61664867]
+ [ 7.56237364]
+ [ 7.61664867]
+ [ 7.61664867]
+ [ 7.56237364]
+ [ 7.61664867]
+ [ 7.61664867]
+ [ 7.56237364]
+ [ 7.49898624]
+ [ 7.61664867]
+ [ 7.56237364]
+ [ 7.61664867]
+ [ 7.56237364]]
+INFO:root:y %f[[ 7.235816  ]
+ [ 7.235816  ]
+ [ 7.235816  ]
+ [ 7.235816  ]
+ [ 7.18425465]
+ [ 7.235816  ]
+ [ 7.235816  ]
+ [ 7.18425465]
+ [ 7.235816  ]
+ [ 7.235816  ]
+ [ 7.18425465]
+ [ 7.12403679]
+ [ 7.235816  ]
+ [ 7.18425465]
+ [ 7.235816  ]
+ [ 7.18425465]]
+INFO:root:training error  = [[  0.13955843]
+ [  0.13955843]
+ [  0.13955843]
+ [  0.13955843]
+ [ 14.06351757]
+ [  0.13955843]
+ [  0.13955843]
+ [ 14.06351757]
+ [  0.13955843]
+ [  0.13955843]
+ [ 14.06351757]
+ [ 34.24655533]
+ [  0.13955843]
+ [ 14.06351757]
+ [  0.13955843]
+ [ 14.06351757]]
+DEBUG:root:training time = %d0.201781
+INFO:root:frame =89 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00046706199646
+INFO:root:frame =90 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000425100326538
+DEBUG:root: save sample needs time = 0.000289916992188
+INFO:root:random_action_porb = 0.999398333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000271
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =92 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000380992889404
+INFO:root:frame =93 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000437021255493
+INFO:root:frame =94 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000469923019409
+DEBUG:root: save sample needs time = 0.000200033187866
+INFO:root:random_action_porb = 0.999366666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000234
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =96 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000231027603149
+INFO:root:q_result %f[[ 7.24894238]
+ [ 3.44495678]
+ [ 7.24894238]
+ [ 3.44495678]
+ [ 3.44495678]
+ [ 3.44495678]
+ [ 3.44495678]
+ [ 7.24894238]
+ [ 1.31468868]
+ [ 7.24894238]
+ [ 7.24894238]
+ [ 7.24894238]
+ [ 3.44495678]
+ [ 7.24894238]
+ [ 3.44495678]
+ [ 1.31468868]]
+INFO:root:q_max %f[[ 7.43415833]
+ [ 7.33772564]
+ [ 7.43415833]
+ [ 7.33772564]
+ [ 7.33772564]
+ [ 7.33772564]
+ [ 7.33772564]
+ [ 7.43415833]
+ [ 7.4099474 ]
+ [ 7.43415833]
+ [ 7.43415833]
+ [ 7.43415833]
+ [ 7.33772564]
+ [ 7.43415833]
+ [ 7.33772564]
+ [ 7.4099474 ]]
+INFO:root:y %f[[ 7.06245041]
+ [ 6.9708395 ]
+ [ 7.06245041]
+ [ 6.9708395 ]
+ [ 6.9708395 ]
+ [ 6.9708395 ]
+ [ 6.9708395 ]
+ [ 7.06245041]
+ [ 7.03945017]
+ [ 7.06245041]
+ [ 7.06245041]
+ [ 7.06245041]
+ [ 6.9708395 ]
+ [ 7.06245041]
+ [ 6.9708395 ]
+ [ 7.03945017]]
+INFO:root:training error  = [[  0.03477925]
+ [ 12.43184853]
+ [  0.03477925]
+ [ 12.43184853]
+ [ 12.43184853]
+ [ 12.43184853]
+ [ 12.43184853]
+ [  0.03477925]
+ [ 32.77289581]
+ [  0.03477925]
+ [  0.03477925]
+ [  0.03477925]
+ [ 12.43184853]
+ [  0.03477925]
+ [ 12.43184853]
+ [ 32.77289581]]
+DEBUG:root:training time = %d0.238336
+INFO:root:frame =97 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00028395652771
+INFO:root:frame =98 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000334978103638
+DEBUG:root: save sample needs time = 0.000133037567139
+INFO:root:random_action_porb = 0.999335
+DEBUG:root: dqn, choose action rondomly, need time 0.000237
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =100 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000233888626099
+INFO:root:frame =101 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00045919418335
+INFO:root:frame =102 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000535011291504
+DEBUG:root: save sample needs time = 0.000256061553955
+INFO:root:random_action_porb = 0.999303333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000311
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =104 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000297069549561
+INFO:root:q_result %f[[ 7.28943682]
+ [ 3.43566775]
+ [ 1.36405015]
+ [ 3.43566775]
+ [ 3.43566775]
+ [ 1.36405015]
+ [ 1.36405015]
+ [ 3.43566775]
+ [ 3.43566775]
+ [ 7.28943682]
+ [ 3.43566775]
+ [ 1.36405015]
+ [ 1.36405015]
+ [ 7.28943682]
+ [ 7.28943682]
+ [ 3.43566775]]
+INFO:root:q_max %f[[ 7.29329538]
+ [ 7.24028635]
+ [ 7.17826939]
+ [ 7.24028635]
+ [ 7.24028635]
+ [ 7.17826939]
+ [ 7.17826939]
+ [ 7.24028635]
+ [ 7.24028635]
+ [ 7.29329538]
+ [ 7.24028635]
+ [ 7.17826939]
+ [ 7.17826939]
+ [ 7.29329538]
+ [ 7.29329538]
+ [ 7.24028635]]
+INFO:root:y %f[[ 6.92863035]
+ [ 6.87827206]
+ [ 6.81935596]
+ [ 6.87827206]
+ [ 6.87827206]
+ [ 6.81935596]
+ [ 6.81935596]
+ [ 6.87827206]
+ [ 6.87827206]
+ [ 6.92863035]
+ [ 6.87827206]
+ [ 6.81935596]
+ [ 6.81935596]
+ [ 6.92863035]
+ [ 6.92863035]
+ [ 6.87827206]]
+INFO:root:training error  = [[  0.13018131]
+ [ 11.85152435]
+ [ 29.76036453]
+ [ 11.85152435]
+ [ 11.85152435]
+ [ 29.76036453]
+ [ 29.76036453]
+ [ 11.85152435]
+ [ 11.85152435]
+ [  0.13018131]
+ [ 11.85152435]
+ [ 29.76036453]
+ [ 29.76036453]
+ [  0.13018131]
+ [  0.13018131]
+ [ 11.85152435]]
+DEBUG:root:training time = %d0.226495
+INFO:root:frame =105 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000331878662109
+INFO:root:frame =106 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000454902648926
+DEBUG:root: save sample needs time = 0.000209093093872
+INFO:root:random_action_porb = 0.999271666667
+DEBUG:root: dqn, choose action rondomly, need time 0.0003
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =108 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000293970108032
+INFO:root:frame =109 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000444173812866
+INFO:root:frame =110 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000415086746216
+DEBUG:root: save sample needs time = 0.00025200843811
+INFO:root:random_action_porb = 0.99924
+DEBUG:root: dqn, choose action rondomly, need time 0.000387
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =112 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000396966934204
+INFO:root:q_result %f[[ 3.44290757]
+ [ 3.44290757]
+ [ 3.44290757]
+ [ 3.44290757]
+ [ 3.44290757]
+ [ 3.44290757]
+ [ 3.44290757]
+ [ 1.43420553]
+ [ 3.44290757]
+ [ 1.43420553]
+ [ 6.70505047]
+ [ 3.44290757]
+ [ 3.44290757]
+ [ 1.43420553]
+ [ 3.44290757]
+ [ 1.43420553]]
+INFO:root:q_max %f[[ 6.94160128]
+ [ 6.94160128]
+ [ 6.94160128]
+ [ 6.94160128]
+ [ 6.94160128]
+ [ 6.94160128]
+ [ 6.94160128]
+ [ 6.98730421]
+ [ 6.94160128]
+ [ 6.98730421]
+ [ 7.02357197]
+ [ 6.94160128]
+ [ 6.94160128]
+ [ 6.98730421]
+ [ 6.94160128]
+ [ 6.98730421]]
+INFO:root:y %f[[ 6.59452105]
+ [ 6.59452105]
+ [ 6.59452105]
+ [ 6.59452105]
+ [ 6.59452105]
+ [ 6.59452105]
+ [ 6.59452105]
+ [ 6.63793898]
+ [ 6.59452105]
+ [ 6.63793898]
+ [ 6.67239332]
+ [ 6.59452105]
+ [ 6.59452105]
+ [ 6.63793898]
+ [ 6.59452105]
+ [ 6.63793898]]
+INFO:root:training error  = [[  9.93266773e+00]
+ [  9.93266773e+00]
+ [  9.93266773e+00]
+ [  9.93266773e+00]
+ [  9.93266773e+00]
+ [  9.93266773e+00]
+ [  9.93266773e+00]
+ [  2.70788422e+01]
+ [  9.93266773e+00]
+ [  2.70788422e+01]
+ [  1.06648926e-03]
+ [  9.93266773e+00]
+ [  9.93266773e+00]
+ [  2.70788422e+01]
+ [  9.93266773e+00]
+ [  2.70788422e+01]]
+DEBUG:root:training time = %d0.208453
+INFO:root:frame =113 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000373125076294
+INFO:root:frame =114 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000468969345093
+INFO:root:frame = 115 State into memory, numbers recorded 4 action = 0, reward = 0
+DEBUG:root: save sample needs time = 0.000578165054321
+INFO:root:random_action_porb = 0.999208333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000349
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =116current_observation done, NOT record action 0, reward = 0
+DEBUG:root: save sample needs time = 0.000370025634766
+INFO:root:frame =117 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000230073928833
+INFO:root:frame =118 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000396013259888
+DEBUG:root: save sample needs time = 0.000219106674194
+INFO:root:random_action_porb = 0.999176666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000279
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =120 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000165939331055
+INFO:root:q_result %f[[ 6.6955924 ]
+ [ 6.6955924 ]
+ [ 1.37726903]
+ [ 3.40807629]
+ [ 3.40807629]
+ [ 6.34567356]
+ [ 3.40807629]
+ [ 1.37726903]
+ [ 6.6955924 ]
+ [ 3.40807629]
+ [ 1.37726903]
+ [ 6.6955924 ]
+ [ 1.37726903]
+ [ 3.40807629]
+ [ 6.34567356]
+ [ 6.6955924 ]]
+INFO:root:q_max %f[[ 6.88602114]
+ [ 6.88602114]
+ [ 6.85869408]
+ [ 6.79127264]
+ [ 6.79127264]
+ [ 6.75859594]
+ [ 6.79127264]
+ [ 6.85869408]
+ [ 6.88602114]
+ [ 6.79127264]
+ [ 6.85869408]
+ [ 6.88602114]
+ [ 6.85869408]
+ [ 6.79127264]
+ [ 6.75859594]
+ [ 6.88602114]]
+INFO:root:y %f[[ 6.54171991]
+ [ 6.54171991]
+ [ 6.51575947]
+ [ 6.45170879]
+ [ 6.45170879]
+ [ 6.42066622]
+ [ 6.45170879]
+ [ 6.51575947]
+ [ 6.54171991]
+ [ 6.45170879]
+ [ 6.51575947]
+ [ 6.54171991]
+ [ 6.51575947]
+ [ 6.45170879]
+ [ 6.42066622]
+ [ 6.54171991]]
+INFO:root:training error  = [[  2.36767437e-02]
+ [  2.36767437e-02]
+ [  2.64040871e+01]
+ [  9.26369858e+00]
+ [  9.26369858e+00]
+ [  5.62389847e-03]
+ [  9.26369858e+00]
+ [  2.64040871e+01]
+ [  2.36767437e-02]
+ [  9.26369858e+00]
+ [  2.64040871e+01]
+ [  2.36767437e-02]
+ [  2.64040871e+01]
+ [  9.26369858e+00]
+ [  5.62389847e-03]
+ [  2.36767437e-02]]
+DEBUG:root:training time = %d0.231704
+INFO:root:frame =121 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000242948532104
+INFO:root:frame =122 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000289916992188
+DEBUG:root: save sample needs time = 0.000235080718994
+INFO:root:random_action_porb = 0.999145
+DEBUG:root: dqn, choose action rondomly, need time 0.000357
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =124 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000306844711304
+INFO:root:frame =125 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000514030456543
+INFO:root:frame =126 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000451803207397
+DEBUG:root: save sample needs time = 0.000273942947388
+INFO:root:random_action_porb = 0.999113333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000477
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =128 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000293970108032
+INFO:root:q_result %f[[ 6.33542109]
+ [ 6.33542109]
+ [ 6.33542109]
+ [ 3.3995924 ]
+ [ 3.3995924 ]
+ [ 1.4110496 ]
+ [ 6.33542109]
+ [ 3.3995924 ]
+ [ 6.33542109]
+ [ 3.3995924 ]
+ [ 6.72904444]
+ [ 6.33542109]
+ [ 3.3995924 ]
+ [ 1.4110496 ]
+ [ 6.72904444]
+ [ 6.33542109]]
+INFO:root:q_max %f[[ 6.64824486]
+ [ 6.64824486]
+ [ 6.64824486]
+ [ 6.68270111]
+ [ 6.68270111]
+ [ 6.62007046]
+ [ 6.64824486]
+ [ 6.68270111]
+ [ 6.64824486]
+ [ 6.68270111]
+ [ 6.73054314]
+ [ 6.64824486]
+ [ 6.68270111]
+ [ 6.62007046]
+ [ 6.73054314]
+ [ 6.64824486]]
+INFO:root:y %f[[ 6.31583261]
+ [ 6.31583261]
+ [ 6.31583261]
+ [ 6.34856606]
+ [ 6.34856606]
+ [ 6.28906679]
+ [ 6.31583261]
+ [ 6.34856606]
+ [ 6.31583261]
+ [ 6.34856606]
+ [ 6.39401579]
+ [ 6.31583261]
+ [ 6.34856606]
+ [ 6.28906679]
+ [ 6.39401579]
+ [ 6.31583261]]
+INFO:root:training error  = [[  3.83708160e-04]
+ [  3.83708160e-04]
+ [  3.83708160e-04]
+ [  8.69644547e+00]
+ [  8.69644547e+00]
+ [  2.37950535e+01]
+ [  3.83708160e-04]
+ [  8.69644547e+00]
+ [  3.83708160e-04]
+ [  8.69644547e+00]
+ [  1.12244196e-01]
+ [  3.83708160e-04]
+ [  8.69644547e+00]
+ [  2.37950535e+01]
+ [  1.12244196e-01]
+ [  3.83708160e-04]]
+DEBUG:root:training time = %d0.231526
+INFO:root:frame =129 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00034499168396
+INFO:root:frame =130 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000303030014038
+DEBUG:root: save sample needs time = 0.00020694732666
+INFO:root:random_action_porb = 0.999081666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000377
+INFO:root:random action 0
+INFO:root:action choosen by dqn 0
+INFO:root:frame =132 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000292062759399
+INFO:root:frame =133 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00046181678772
+INFO:root:frame =134 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000393867492676
+DEBUG:root: save sample needs time = 0.00022292137146
+INFO:root:random_action_porb = 0.99905
+DEBUG:root: dqn, choose action rondomly, need time 0.000555
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =136 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000341892242432
+INFO:root:q_result %f[[ 1.43292212]
+ [ 6.48239422]
+ [ 1.43292212]
+ [ 6.33564949]
+ [ 6.48239422]
+ [ 6.33564949]
+ [ 6.48239422]
+ [ 3.40118217]
+ [ 3.40118217]
+ [ 3.40118217]
+ [ 1.43292212]
+ [ 6.33564949]
+ [ 6.48239422]
+ [ 3.40118217]
+ [ 1.43292212]
+ [ 1.43292212]]
+INFO:root:q_max %f[[ 6.4566164 ]
+ [ 6.48457623]
+ [ 6.4566164 ]
+ [ 6.40286303]
+ [ 6.48457623]
+ [ 6.40286303]
+ [ 6.48457623]
+ [ 6.43602467]
+ [ 6.43602467]
+ [ 6.43602467]
+ [ 6.4566164 ]
+ [ 6.40286303]
+ [ 6.48457623]
+ [ 6.43602467]
+ [ 6.4566164 ]
+ [ 6.4566164 ]]
+INFO:root:y %f[[ 6.13378572]
+ [ 6.16034746]
+ [ 6.13378572]
+ [ 6.0827198 ]
+ [ 6.16034746]
+ [ 6.0827198 ]
+ [ 6.16034746]
+ [ 6.11422348]
+ [ 6.11422348]
+ [ 6.11422348]
+ [ 6.13378572]
+ [ 6.0827198 ]
+ [ 6.16034746]
+ [ 6.11422348]
+ [ 6.13378572]
+ [ 6.13378572]]
+INFO:root:training error  = [[ 22.09812164]
+ [  0.10371412]
+ [ 22.09812164]
+ [  0.06397343]
+ [  0.10371412]
+ [  0.06397343]
+ [  0.10371412]
+ [  7.36059332]
+ [  7.36059332]
+ [  7.36059332]
+ [ 22.09812164]
+ [  0.06397343]
+ [  0.10371412]
+ [  7.36059332]
+ [ 22.09812164]
+ [ 22.09812164]]
+DEBUG:root:training time = %d0.228679
+INFO:root:frame =137 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000300884246826
+INFO:root:frame =138 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000418901443481
+DEBUG:root: save sample needs time = 0.000205039978027
+INFO:root:random_action_porb = 0.999018333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000176
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =140 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000144004821777
+INFO:root:frame =141 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000264883041382
+INFO:root:frame =142 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000522136688232
+DEBUG:root: save sample needs time = 0.000201940536499
+INFO:root:random_action_porb = 0.998986666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000284000000001
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =144 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000300884246826
+INFO:root:q_result %f[[ 1.46168542]
+ [ 6.32990837]
+ [ 6.39863014]
+ [ 3.39754438]
+ [ 1.46168542]
+ [ 1.46168542]
+ [ 3.39754438]
+ [ 3.39754438]
+ [ 1.46168542]
+ [ 6.39863014]
+ [ 3.39754438]
+ [ 1.46168542]
+ [ 6.39863014]
+ [ 6.39863014]
+ [ 6.32990837]
+ [ 1.46168542]]
+INFO:root:q_max %f[[ 6.32990837]
+ [ 6.31993341]
+ [ 6.40188408]
+ [ 6.35318184]
+ [ 6.32990837]
+ [ 6.32990837]
+ [ 6.35318184]
+ [ 6.35318184]
+ [ 6.32990837]
+ [ 6.40188408]
+ [ 6.35318184]
+ [ 6.32990837]
+ [ 6.40188408]
+ [ 6.40188408]
+ [ 6.31993341]
+ [ 6.32990837]]
+INFO:root:y %f[[ 6.01341295]
+ [ 6.00393677]
+ [ 6.08178997]
+ [ 6.03552246]
+ [ 6.01341295]
+ [ 6.01341295]
+ [ 6.03552246]
+ [ 6.03552246]
+ [ 6.01341295]
+ [ 6.08178997]
+ [ 6.03552246]
+ [ 6.01341295]
+ [ 6.08178997]
+ [ 6.08178997]
+ [ 6.00393677]
+ [ 6.01341295]]
+INFO:root:training error  = [[ 20.71822166]
+ [  0.10625748]
+ [  0.10038769]
+ [  6.95892811]
+ [ 20.71822166]
+ [ 20.71822166]
+ [  6.95892811]
+ [  6.95892811]
+ [ 20.71822166]
+ [  0.10038769]
+ [  6.95892811]
+ [ 20.71822166]
+ [  0.10038769]
+ [  0.10038769]
+ [  0.10625748]
+ [ 20.71822166]]
+DEBUG:root:training time = %d0.206823
+INFO:root:frame =145 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000247001647949
+INFO:root:frame =146 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000220060348511
+DEBUG:root: save sample needs time = 0.000200986862183
+INFO:root:random_action_porb = 0.998955
+DEBUG:root: dqn, choose action rondomly, need time 0.000449000000001
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =148 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000308036804199
+INFO:root:frame =149 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00042200088501
+INFO:root:frame =150 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000475883483887
+DEBUG:root: save sample needs time = 0.000259876251221
+INFO:root:random_action_porb = 0.998923333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000402999999999
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =152 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000396966934204
+INFO:root:q_result %f[[ 1.44010758]
+ [ 3.37494802]
+ [ 6.31258774]
+ [ 6.016222  ]
+ [ 1.44010758]
+ [ 6.016222  ]
+ [ 6.31258774]
+ [ 1.44010758]
+ [ 6.31258774]
+ [ 3.37494802]
+ [ 3.37494802]
+ [ 6.31258774]
+ [ 1.44010758]
+ [ 3.37494802]
+ [ 6.31258774]
+ [ 3.37494802]]
+INFO:root:q_max %f[[ 6.20629406]
+ [ 6.26882648]
+ [ 6.31699944]
+ [ 6.23528194]
+ [ 6.20629406]
+ [ 6.23528194]
+ [ 6.31699944]
+ [ 6.20629406]
+ [ 6.31699944]
+ [ 6.26882648]
+ [ 6.26882648]
+ [ 6.31699944]
+ [ 6.20629406]
+ [ 6.26882648]
+ [ 6.31699944]
+ [ 6.26882648]]
+INFO:root:y %f[[ 5.8959794 ]
+ [ 5.95538521]
+ [ 6.00114918]
+ [ 5.9235177 ]
+ [ 5.8959794 ]
+ [ 5.9235177 ]
+ [ 6.00114918]
+ [ 5.8959794 ]
+ [ 6.00114918]
+ [ 5.95538521]
+ [ 5.95538521]
+ [ 6.00114918]
+ [ 5.8959794 ]
+ [ 5.95538521]
+ [ 6.00114918]
+ [ 5.95538521]]
+INFO:root:training error  = [[  1.98547916e+01]
+ [  6.65865612e+00]
+ [  9.69939753e-02]
+ [  8.59408639e-03]
+ [  1.98547916e+01]
+ [  8.59408639e-03]
+ [  9.69939753e-02]
+ [  1.98547916e+01]
+ [  9.69939753e-02]
+ [  6.65865612e+00]
+ [  6.65865612e+00]
+ [  9.69939753e-02]
+ [  1.98547916e+01]
+ [  6.65865612e+00]
+ [  9.69939753e-02]
+ [  6.65865612e+00]]
+DEBUG:root:training time = %d0.212082
+INFO:root:frame =153 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000277042388916
+INFO:root:frame =154 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000303030014038
+INFO:root:frame = 155 State into memory, numbers recorded 5 action = 1, reward = 0
+DEBUG:root: save sample needs time = 0.000546216964722
+INFO:root:random_action_porb = 0.998891666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000306
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =156current_observation done, NOT record action 2, reward = 0
+DEBUG:root: save sample needs time = 0.000330924987793
+INFO:root:frame =157 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000458955764771
+INFO:root:frame =158 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000458002090454
+DEBUG:root: save sample needs time = 0.000217914581299
+INFO:root:random_action_porb = 0.99886
+DEBUG:root: dqn, choose action rondomly, need time 0.00041
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =160 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000478029251099
+INFO:root:q_result %f[[ 5.93123722]
+ [ 6.0096159 ]
+ [ 6.0096159 ]
+ [ 5.93123722]
+ [ 6.02307653]
+ [ 6.0096159 ]
+ [ 3.37626338]
+ [ 6.02307653]
+ [ 6.02307653]
+ [ 6.02307653]
+ [ 6.02307653]
+ [ 6.0096159 ]
+ [ 6.0096159 ]
+ [ 5.93123722]
+ [ 3.37626338]
+ [ 6.0096159 ]]
+INFO:root:q_max %f[[ 6.19540548]
+ [ 6.25667286]
+ [ 6.25667286]
+ [ 6.19540548]
+ [ 6.12777185]
+ [ 6.25667286]
+ [ 6.16364765]
+ [ 6.12777185]
+ [ 6.12777185]
+ [ 6.12777185]
+ [ 6.12777185]
+ [ 6.25667286]
+ [ 6.25667286]
+ [ 6.19540548]
+ [ 6.16364765]
+ [ 6.25667286]]
+INFO:root:y %f[[ 5.8856349 ]
+ [ 5.94383907]
+ [ 5.94383907]
+ [ 5.8856349 ]
+ [ 5.821383  ]
+ [ 5.94383907]
+ [ 5.85546541]
+ [ 5.821383  ]
+ [ 5.821383  ]
+ [ 5.821383  ]
+ [ 5.821383  ]
+ [ 5.94383907]
+ [ 5.94383907]
+ [ 5.8856349 ]
+ [ 5.85546541]
+ [ 5.94383907]]
+INFO:root:training error  = [[  2.07957183e-03]
+ [  4.32659080e-03]
+ [  4.32659080e-03]
+ [  2.07957183e-03]
+ [  4.06802818e-02]
+ [  4.32659080e-03]
+ [  6.14644289e+00]
+ [  4.06802818e-02]
+ [  4.06802818e-02]
+ [  4.06802818e-02]
+ [  4.06802818e-02]
+ [  4.32659080e-03]
+ [  4.32659080e-03]
+ [  2.07957183e-03]
+ [  6.14644289e+00]
+ [  4.32659080e-03]]
+DEBUG:root:training time = %d0.182355
+INFO:root:frame =161 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000363111495972
+INFO:root:frame =162 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000279188156128
+INFO:root:frame = 163 State into memory, numbers recorded 6 action = 4, reward = 0
+DEBUG:root: save sample needs time = 0.000282049179077
+INFO:root:random_action_porb = 0.998828333333
+DEBUG:root: dqn, choose action rondomly, need time 0.00035
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =164current_observation done, NOT record action 4, reward = 0
+DEBUG:root: save sample needs time = 0.000449895858765
+INFO:root:frame =165 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000224828720093
+INFO:root:frame =166 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000418901443481
+DEBUG:root: save sample needs time = 0.000223159790039
+INFO:root:random_action_porb = 0.998796666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000313999999999
+INFO:root:random action 4
+INFO:root:action choosen by dqn 4
+INFO:root:frame =168 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000457048416138
+INFO:root:q_result %f[[ 1.33204103]
+ [ 1.47371197]
+ [ 5.93498993]
+ [ 6.01398563]
+ [ 6.02239513]
+ [ 6.01398563]
+ [ 6.01398563]
+ [ 1.33204103]
+ [ 3.37550378]
+ [ 6.01398563]
+ [ 5.93498993]
+ [ 1.33204103]
+ [ 1.47371197]
+ [ 1.33204103]
+ [ 1.47371197]
+ [ 1.33204103]]
+INFO:root:q_max %f[[ 6.19408655]
+ [ 6.18271542]
+ [ 6.14884329]
+ [ 6.21023893]
+ [ 6.08166409]
+ [ 6.21023893]
+ [ 6.21023893]
+ [ 6.19408655]
+ [ 6.11698246]
+ [ 6.21023893]
+ [ 6.14884329]
+ [ 6.19408655]
+ [ 6.18271542]
+ [ 6.19408655]
+ [ 6.18271542]
+ [ 6.19408655]]
+INFO:root:y %f[[ 5.88438225]
+ [ 5.8735795 ]
+ [ 5.8414011 ]
+ [ 5.89972687]
+ [ 5.77758074]
+ [ 5.89972687]
+ [ 5.89972687]
+ [ 5.88438225]
+ [ 5.81113338]
+ [ 5.89972687]
+ [ 5.8414011 ]
+ [ 5.88438225]
+ [ 5.8735795 ]
+ [ 5.88438225]
+ [ 5.8735795 ]
+ [ 5.88438225]]
+INFO:root:training error  = [[  2.07238121e+01]
+ [  1.93588352e+01]
+ [  8.75886902e-03]
+ [  1.30550656e-02]
+ [  5.99340871e-02]
+ [  1.30550656e-02]
+ [  1.30550656e-02]
+ [  2.07238121e+01]
+ [  5.93229151e+00]
+ [  1.30550656e-02]
+ [  8.75886902e-03]
+ [  2.07238121e+01]
+ [  1.93588352e+01]
+ [  2.07238121e+01]
+ [  1.93588352e+01]
+ [  2.07238121e+01]]
+DEBUG:root:training time = %d0.210163
+INFO:root:frame =169 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00029993057251
+INFO:root:frame =170 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000416994094849
+DEBUG:root: save sample needs time = 0.000149011611938
+INFO:root:random_action_porb = 0.998765
+DEBUG:root: dqn, choose action rondomly, need time 0.000198999999999
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =172 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000262975692749
+INFO:root:frame =173 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.00056791305542
+INFO:root:frame =174 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000431776046753
+DEBUG:root: save sample needs time = 0.000204086303711
+INFO:root:random_action_porb = 0.998733333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000363
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =176 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.00033712387085
+INFO:root:q_result %f[[ 3.37056661]
+ [ 5.97348404]
+ [ 6.05598545]
+ [ 6.05598545]
+ [ 1.50697684]
+ [ 6.01340628]
+ [ 5.97348404]
+ [ 6.05598545]
+ [ 1.36562753]
+ [ 6.01340628]
+ [ 6.01340628]
+ [ 5.97348404]
+ [ 6.01340628]
+ [ 1.36562753]
+ [ 1.50697684]
+ [ 1.36562753]]
+INFO:root:q_max %f[[ 6.00971508]
+ [ 6.05124474]
+ [ 6.06007862]
+ [ 6.06007862]
+ [ 6.01340628]
+ [ 5.97348404]
+ [ 6.05124474]
+ [ 6.06007862]
+ [ 6.05111504]
+ [ 5.97348404]
+ [ 5.97348404]
+ [ 6.05124474]
+ [ 5.97348404]
+ [ 6.05111504]
+ [ 6.01340628]
+ [ 6.05111504]]
+INFO:root:y %f[[ 5.70922947]
+ [ 5.7486825 ]
+ [ 5.75707483]
+ [ 5.75707483]
+ [ 5.71273565]
+ [ 5.67480993]
+ [ 5.7486825 ]
+ [ 5.75707483]
+ [ 5.748559  ]
+ [ 5.67480993]
+ [ 5.67480993]
+ [ 5.7486825 ]
+ [ 5.67480993]
+ [ 5.748559  ]
+ [ 5.71273565]
+ [ 5.748559  ]]
+INFO:root:training error  = [[  5.46934414]
+ [  0.05053573]
+ [  0.08934756]
+ [  0.08934756]
+ [ 17.68840981]
+ [  0.11464749]
+ [  0.05053573]
+ [  0.08934756]
+ [ 19.21009064]
+ [  0.11464749]
+ [  0.11464749]
+ [  0.05053573]
+ [  0.11464749]
+ [ 19.21009064]
+ [ 17.68840981]
+ [ 19.21009064]]
+DEBUG:root:training time = %d0.217444
+INFO:root:frame =177 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000297784805298
+INFO:root:frame =178 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000439882278442
+DEBUG:root: save sample needs time = 0.000200986862183
+INFO:root:random_action_porb = 0.998701666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000263
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =180 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.0002601146698
+INFO:root:frame =181 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000463008880615
+INFO:root:frame =182 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000507116317749
+DEBUG:root: save sample needs time = 0.000202894210815
+INFO:root:random_action_porb = 0.99867
+DEBUG:root: dqn, choose action rondomly, need time 0.000285
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =184 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.00029993057251
+INFO:root:q_result %f[[ 1.3662138 ]
+ [ 5.91654778]
+ [ 3.3654418 ]
+ [ 5.9091835 ]
+ [ 5.9091835 ]
+ [ 5.83533859]
+ [ 5.83533859]
+ [ 1.3662138 ]
+ [ 1.5076251 ]
+ [ 1.5076251 ]
+ [ 5.91654778]
+ [ 5.91654778]
+ [ 1.5076251 ]
+ [ 5.83533859]
+ [ 3.3654418 ]
+ [ 3.3654418 ]]
+INFO:root:q_max %f[[ 5.93111181]
+ [ 5.94202709]
+ [ 5.86922932]
+ [ 5.83533859]
+ [ 5.83533859]
+ [ 5.92972994]
+ [ 5.92972994]
+ [ 5.93111181]
+ [ 5.9091835 ]
+ [ 5.9091835 ]
+ [ 5.94202709]
+ [ 5.94202709]
+ [ 5.9091835 ]
+ [ 5.92972994]
+ [ 5.86922932]
+ [ 5.86922932]]
+INFO:root:y %f[[ 5.63455629]
+ [ 5.64492559]
+ [ 5.57576799]
+ [ 5.54357147]
+ [ 5.54357147]
+ [ 5.63324356]
+ [ 5.63324356]
+ [ 5.63455629]
+ [ 5.61372423]
+ [ 5.61372423]
+ [ 5.64492559]
+ [ 5.64492559]
+ [ 5.61372423]
+ [ 5.63324356]
+ [ 5.57576799]
+ [ 5.57576799]]
+INFO:root:training error  = [[ 18.21874809]
+ [  0.07377861]
+ [  4.88554192]
+ [  0.13367216]
+ [  0.13367216]
+ [  0.0408424 ]
+ [  0.0408424 ]
+ [ 18.21874809]
+ [ 16.8600502 ]
+ [ 16.8600502 ]
+ [  0.07377861]
+ [  0.07377861]
+ [ 16.8600502 ]
+ [  0.0408424 ]
+ [  4.88554192]
+ [  4.88554192]]
+DEBUG:root:training time = %d0.205946
+INFO:root:frame =185 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000277042388916
+INFO:root:frame =186 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000336170196533
+DEBUG:root: save sample needs time = 0.000202894210815
+INFO:root:random_action_porb = 0.998638333333
+DEBUG:root: dqn, choose action rondomly, need time 0.000368
+INFO:root:random action 3
+INFO:root:action choosen by dqn 3
+INFO:root:frame =188 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000296115875244
+INFO:root:frame =189 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000432014465332
+INFO:root:frame =190 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000456094741821
+DEBUG:root: save sample needs time = 0.000262975692749
+INFO:root:random_action_porb = 0.998606666667
+DEBUG:root: dqn, choose action rondomly, need time 0.000253
+INFO:root:random action 1
+INFO:root:action choosen by dqn 1
+INFO:root:frame =192 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000454902648926
+INFO:root:q_result %f[[ 1.34844542]
+ [ 5.85458946]
+ [ 5.77780581]
+ [ 3.35632372]
+ [ 5.77780581]
+ [ 3.35632372]
+ [ 5.66391945]
+ [ 3.35632372]
+ [ 5.77780581]
+ [ 5.77780581]
+ [ 5.77780581]
+ [ 3.35632372]
+ [ 3.35632372]
+ [ 5.77780581]
+ [ 5.77780581]
+ [ 1.49033976]]
+INFO:root:q_max %f[[ 5.85162497]
+ [ 5.85825062]
+ [ 5.85299253]
+ [ 5.81111431]
+ [ 5.85299253]
+ [ 5.81111431]
+ [ 5.77780581]
+ [ 5.81111431]
+ [ 5.85299253]
+ [ 5.85299253]
+ [ 5.85299253]
+ [ 5.81111431]
+ [ 5.81111431]
+ [ 5.85299253]
+ [ 5.85299253]
+ [ 5.74823427]]
+INFO:root:y %f[[ 5.55904388]
+ [ 5.56533813]
+ [ 5.56034279]
+ [ 5.52055836]
+ [ 5.56034279]
+ [ 5.52055836]
+ [ 5.48891544]
+ [ 5.52055836]
+ [ 5.56034279]
+ [ 5.56034279]
+ [ 5.56034279]
+ [ 5.52055836]
+ [ 5.52055836]
+ [ 5.56034279]
+ [ 5.56034279]
+ [ 5.46082258]]
+INFO:root:training error  = [[ 17.72913933]
+ [  0.08366633]
+ [  0.04729016]
+ [  4.6839118 ]
+ [  0.04729016]
+ [  4.6839118 ]
+ [  0.0306264 ]
+ [  4.6839118 ]
+ [  0.04729016]
+ [  0.04729016]
+ [  0.04729016]
+ [  4.6839118 ]
+ [  4.6839118 ]
+ [  0.04729016]
+ [  0.04729016]
+ [ 15.76473427]]
+DEBUG:root:training time = %d0.208277
+INFO:root:frame =193 recording following_observation no.1
+DEBUG:root: save sample needs time = 0.000198841094971
+INFO:root:frame =194 recording following_observation no.2
+DEBUG:root: save sample needs time = 0.000452995300293
+DEBUG:root: save sample needs time = 0.000147104263306
+INFO:root:random_action_porb = 0.998575
+DEBUG:root: dqn, choose action rondomly, need time 0.000342
+INFO:root:random action 2
+INFO:root:action choosen by dqn 2
+INFO:root:frame =196 recording following_observation no.0
+DEBUG:root: save sample needs time = 0.000219821929932
